@@ -1,0 +1,12 @@
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/bin/Debug/net9.0/Amlaki.Domain.deps.json
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/bin/Debug/net9.0/Amlaki.Domain.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/bin/Debug/net9.0/Amlaki.Domain.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.csproj.AssemblyReference.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.AssemblyInfoInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.AssemblyInfo.cs
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.csproj.CoreCompileInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/refint/Amlaki.Domain.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/Amlaki.Domain.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Domain/obj/Debug/net9.0/ref/Amlaki.Domain.dll

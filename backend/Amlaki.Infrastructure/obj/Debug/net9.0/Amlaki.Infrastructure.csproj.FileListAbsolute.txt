@@ -1,0 +1,17 @@
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Infrastructure.deps.json
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Infrastructure.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Infrastructure.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Application.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Domain.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Application.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/bin/Debug/net9.0/Amlaki.Domain.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.csproj.AssemblyReference.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.AssemblyInfoInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.AssemblyInfo.cs
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.csproj.CoreCompileInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.I.A9C9C2FB.Up2Date
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/refint/Amlaki.Infrastructure.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/Amlaki.Infrastructure.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Infrastructure/obj/Debug/net9.0/ref/Amlaki.Infrastructure.dll

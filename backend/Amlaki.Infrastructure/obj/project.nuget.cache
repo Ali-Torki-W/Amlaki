@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3P4bEje1qes=",
+  "success": true,
+  "projectFilePath": "/home/arloson/Desktop/Projects/Development/Amlaki-1/backend/Amlaki.Infrastructure/Amlaki.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/arloson/.nuget/packages/bcrypt.net-core/1.6.0/bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

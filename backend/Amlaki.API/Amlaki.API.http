@@ -1,0 +1,6 @@
+@Amlaki.API_HostAddress = http://localhost:5248
+
+GET {{Amlaki.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

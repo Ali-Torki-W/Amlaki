@@ -1,0 +1,15 @@
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/bin/Debug/net9.0/Amlaki.Application.deps.json
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/bin/Debug/net9.0/Amlaki.Application.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/bin/Debug/net9.0/Amlaki.Application.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/bin/Debug/net9.0/Amlaki.Domain.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/bin/Debug/net9.0/Amlaki.Domain.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.csproj.AssemblyReference.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.AssemblyInfoInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.AssemblyInfo.cs
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.csproj.CoreCompileInputs.cache
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.A.38AF167C.Up2Date
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/refint/Amlaki.Application.dll
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/Amlaki.Application.pdb
+/home/arlo/Desktop/Projects/Development/Amlaki/backend/Amlaki.Application/obj/Debug/net9.0/ref/Amlaki.Application.dll
